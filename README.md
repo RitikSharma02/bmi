@@ -1,6 +1,6 @@
-# bmi
+# BMI app build by Flutter
 
-A new Flutter project.
+BMI app built by Flutter 3.7.11 /  Dart 2.19.6
 
 ## Getting Started
 
